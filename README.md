@@ -6,14 +6,15 @@ I created this bot using Azure bot service and a QnA maker.
  and my website link( to test the bot): https://ivishnumurthyhegde.github.io/covid-19_help/
  and i hosted the website in github.
  
- Below are the some sample images taken while builing the bot:
+ Below are the some sample images taken while doing the project :
  
- ![Screenshot (90)](https://user-images.githubusercontent.com/94776260/161112055-7e256e8f-fd5a-4ab5-80aa-ad296b81cc59.png)
- 
-![Screenshot (91)](https://user-images.githubusercontent.com/94776260/161112060-394b2753-0e3d-4934-b3fc-df817841f5bc.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/94776260/161112587-6a695d02-91f6-48e5-b199-eca3f2fc3d1f.png)
 
-![Screenshot (92)](https://user-images.githubusercontent.com/94776260/161112067-7b30b8fd-9a39-474c-a4ec-3a2f2b3d89ee.png)
 
-![Screenshot (93)](https://user-images.githubusercontent.com/94776260/161112069-c6e02195-1bdb-43c5-b57b-f2f8bdf8f4aa.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/94776260/161112590-90d5d3d3-1ac1-421b-8e3a-0f1f28f2adb4.png)
 
-![Screenshot (94)](https://user-images.githubusercontent.com/94776260/161112073-23a93e31-27ef-42c8-a45f-6c9aaf28c87c.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/94776260/161112595-b66fb4b1-c4d8-4aa1-8a8d-be2c79e1c1a2.png)
+
+![Screenshot (98)](https://user-images.githubusercontent.com/94776260/161112598-19f47672-9f19-4c65-92ac-8808fb7e527d.png)
+
+![Screenshot (99)](https://user-images.githubusercontent.com/94776260/161112601-2b09cde0-c7cc-4d94-8144-7f9335a2faa9.png)
