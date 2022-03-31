@@ -1,10 +1,10 @@
-# covid-19_help
+# covid-19_website
 
 In this project i created a website which have the information about the corona virus and also i created a bot which answers to questions realated covid-19 .
 I created this bot using Azure bot service and a QnA maker.
 Link of the azure service (Azure bot service): https://azure.microsoft.com/en-in/services/bot-services/
  
- and my website link( to test the bot): https://ivishnumurthyhegde.github.io/covid-19_help/
+ and my website link( to test the bot): 
  and i hosted the website in github.
  
  Below are the some sample images taken while doing the project :
