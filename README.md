@@ -2,7 +2,7 @@
 
 In this project i created a Static website which have the information about the corona virus and also i created a bot which answers to questions realated covid-19 .
 
-I created this bot using AZURE BOTSERVICE and a QnA MAKER and Static web app service.
+I created this bot using AZURE BOTSERVICE and a QnA MAKER and STATIC WEB APP service.
 
 Link of my project( website url) :- https://delightful-pebble-0a0e2d710.1.azurestaticapps.net/
  
