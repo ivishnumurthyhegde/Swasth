@@ -3,11 +3,8 @@
 In this project, I created a Static website that has information about the coronavirus and also I created a bot that answers to questions related covid-19.
 
 I created this bot using AZURE BOTSERVICE and a QnA MAKER and STATIC WEB APP service.
-
-Link of my project( website URL) :- https://delightful-pebble-0a0e2d710.1.azurestaticapps.net/
  
- and I hosted  a website on GitHub also.
- link of GitHub hosted website: https://ivishnumurthyhegde.github.io/covid-19-website/
+ link of the website: https://ivishnumurthyhegde.github.io/covid-19-website/
 
  Below are some of the steps and sample images taken while doing the project :
  1. azure resource group
